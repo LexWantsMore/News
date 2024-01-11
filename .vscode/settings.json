@@ -1,0 +1,7 @@
+{
+  "prettier.htmlWhitespaceSensitivity": "css",
+  "prettier.embeddedLanguageFormatting": "auto",
+  "prettier.printWidth": 79,
+  "editor.formatOnSave": true,
+  "files.autoSave": "afterDelay"
+}
